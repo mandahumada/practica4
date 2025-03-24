@@ -1,0 +1,207 @@
+sisisisEste es un mensaje de error.
+Este es un mensaje de error.
+ | el usuario ha realizado un nuevo registro.
+ | el usuario ha realizado un nuevo registro.
+2025-02-19 06:18:48 | el usuario ha realizado un nuevo registro.
+2025-02-19 06:18:49 | el usuario ha realizado un nuevo registro.
+ | el usuario ha realizado un nuevo registro.el usuario ha realizado un nuevo registro.  | 2025-02-19 07:17:33\n2025-02-19 07:18:40 | el usuario ha realizado un nuevo registro.
+2025-02-19 07:18:45 | el usuario ha realizado un nuevo registro.
+2025-02-19 07:18:48 | el usuario ha realizado un nuevo registro.
+2025-02-19 07:20:51 | el usuario ha realizado un nuevo registro.
+2025-02-19 07:20:53 | el usuario ha eliminado un registro.
+2025-02-19 07:21:12 | el usuario ha eliminado un registro.
+2025-02-19 07:21:14 | el usuario ha eliminado un registro.
+2025-02-19 07:21:16 | el usuario ha eliminado un registro.
+2025-02-19 07:24:03 | el usuario ha eliminado un registro.
+2025-02-19 07:24:23 | el usuario ha eliminado un registro.
+2025-02-19 07:24:26 | el usuario ha eliminado un registro.
+2025-02-19 07:24:54 | el usuario ha eliminado un registro.
+2025-02-19 07:24:58 | el usuario ha eliminado un registro.
+2025-02-19 07:25:01 | el usuario ha eliminado un registro.
+2025-02-19 07:25:05 | el usuario ha eliminado un registro.
+2025-02-19 07:25:39 | el usuario ha eliminado un registro.
+2025-02-19 07:25:43 | el usuario ha eliminado un registro.
+2025-02-19 07:25:48 | el usuario ha eliminado un registro.
+2025-02-19 07:25:51 | el usuario ha eliminado un registro.
+2025-02-19 07:26:14 | el usuario ha eliminado un registro.
+2025-02-19 07:26:18 | el usuario ha eliminado un registro.
+2025-02-19 07:30:17 | el usuario ha eliminado un registjjhro.
+2025-02-19 07:30:20 | el usuario ha eliminado un registjjhro.
+2025-02-19 07:30:24 | el usuario ha eliminado un registjjhro.
+2025-02-19 07:42:52 | el usuario ha buscado un registro.
+2025-02-19 07:42:55 | el usuario ha buscado un registro.
+2025-02-19 07:43:02 | el usuario ha buscado un registro.
+2025-02-19 08:11:05 | el usuario intento actualizar un registro.
+2025-02-19 08:11:14 | el usuario intento actualizar un registro correctamente.
+2025-02-19 08:11:44 | el usuario ha realizado un nuevo registro.
+2025-02-19 08:11:49 | el usuario ha realizado un nuevo registro.
+2025-02-19 08:13:42 | el usuario ha realizado un nuevo registro.
+2025-02-19 08:14:00 | el usuario ha eliminado un registro.
+2025-02-19 08:14:18 | el usuario ha eliminado un registro.
+2025-02-19 08:14:33 | el usuario intento actualizar un registro correctamente.
+2025-02-19 08:14:44 | el usuario intento actualizar un registro.
+2025-02-19 08:16:48 | el usuario intento actualizar un registro.
+2025-02-19 08:16:55 | el usuario intento actualizar un registro.
+2025-02-19 08:17:11 | el usuario intento actualizar un registro.
+2025-02-19 08:17:26 | el usuario ha actualizado un registro correctamente.
+2025-02-19 08:50:29 | el usuario intento actualizar un registro.
+2025-02-19 08:50:39 | el usuario ha actualizado un registro correctamente.
+2025-02-19 08:52:02 | el usuario intento actualizar un registro.
+2025-02-19 08:52:13 | el usuario intento actualizar un registro.
+2025-02-19 08:53:31 | el usuario intento actualizar un registro.
+2025-02-19 08:53:39 | el usuario ha actualizado el registro70correctamente.
+2025-02-19 08:54:23 | el usuario intento actualizar el registro70.
+2025-02-19 08:54:27 | el usuario intento actualizar el registro71.
+2025-02-19 08:55:29 | el usuario intento actualizar el registro 71.
+2025-02-19 08:55:33 | el usuario ha eliminado el registro71.
+2025-02-19 08:57:34 | el usuario ha eliminado el registro 73.
+2025-02-19 10:12:56 | intento de ingresar un usuario con caracteres no permitidos.
+2025-02-19 10:13:04 | admin inicio sesion.
+2025-02-19 10:16:14 | admin inicio sesion.
+2025-02-19 10:19:35 | admn intento iniciar sesion.
+2025-02-19 10:19:41 | admin inicio sesion.
+2025-02-19 10:20:53 | as intento iniciar sesion.
+2025-02-19 10:21:09 | admin inicio sesion.
+2025-02-19 10:23:36 | admin inicio sesion.
+2025-02-19 10:27:05 | admin inicio sesion.
+2025-02-19 10:27:39 | admin intento iniciar sesion.
+2025-02-19 10:27:51 | admin inicio sesion.
+2025-02-19 10:29:05 | admin inicio sesion.
+2025-02-19 10:32:19 | admin inicio sesion.
+2025-02-19 10:32:25 | el usuario ha realizado un nuevo registro.
+2025-02-19 10:32:37 | el usuario ha eliminado el registro 80.
+2025-02-19 10:33:00 | el usuario ha actualizado el registro 75 correctamente.
+2025-02-19 10:33:13 | el usuario intento actualizar el registro 75.
+2025-02-19 10:36:35 | admin inicio sesion.
+2025-02-19 10:36:45 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:37:18 | el usuario admin intento actualizar el registro 81.
+2025-02-19 10:37:45 | el usuario admin ha actualizado el registro 81 correctamente.
+2025-02-19 10:38:02 | el usuario admin ha eliminado el registro 81.
+2025-02-19 10:40:32 | admin inicio sesion.
+2025-02-19 10:40:39 | el usuario admin ha buscado un registro.
+2025-02-19 10:41:08 | el usuario admin ha buscado un registro.
+2025-02-19 10:42:59 | admin inicio sesion.
+2025-02-19 10:43:05 | el usuario admin ha buscado un registro.
+2025-02-19 10:43:46 | admin inicio sesion.
+2025-02-19 10:43:53 | el usuario admin ha buscado un registro.
+2025-02-19 10:44:18 | el usuario admin ha buscado un registro.
+2025-02-19 10:48:16 | admin inicio sesion.
+2025-02-19 10:48:23 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:48:45 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:49:14 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:49:17 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:49:42 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:49:54 | el usuario admin ha eliminado el registro 86.
+2025-02-19 10:50:34 | admin inicio sesion.
+2025-02-19 10:50:52 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:51:18 | el usuario admin ha eliminado el registro 85.
+2025-02-19 10:51:28 | el usuario admin ha eliminado el registro 83.
+2025-02-19 10:52:35 | admin inicio sesion.
+2025-02-19 10:52:43 | el usuario admin ha eliminado el registro 82.
+2025-02-19 10:52:51 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 10:52:58 | el usuario admin ha buscado un registro.
+2025-02-19 10:55:37 | admin inicio sesion.
+2025-02-19 10:57:02 | admin inicio sesion.
+2025-02-19 10:59:03 | admin inicio sesion.
+2025-02-19 10:59:25 | sa intento iniciar sesion.
+2025-02-19 11:00:25 | sa intento iniciar sesion.
+2025-02-19 11:00:34 | sa intento iniciar sesion.
+2025-02-19 11:00:51 | sa intento iniciar sesion.
+2025-02-19 11:01:10 | sa intento iniciar sesion.
+2025-02-19 11:01:41 | sa intento iniciar sesion.
+2025-02-19 11:01:48 | sa intento iniciar sesion.
+2025-02-19 11:01:59 | sa intento iniciar sesion.
+2025-02-19 11:02:06 | sa intento iniciar sesion.
+2025-02-19 11:02:16 | sa intento iniciar sesion.
+2025-02-19 11:02:20 | sa intento iniciar sesion.
+2025-02-19 11:02:28 | sa intento iniciar sesion.
+2025-02-19 11:03:48 | sa intento iniciar sesion.
+2025-02-19 11:04:42 | sa intento iniciar sesion.
+2025-02-19 11:05:01 | sa intento iniciar sesion.
+2025-02-19 11:05:11 | admin inicio sesion.
+2025-02-19 11:07:18 | intento de ingresar un usuario con caracteres no permitidos.
+2025-02-19 11:07:18 | intento de ingresar una contrasena con caracteres no permitidos.
+2025-02-19 11:08:01 | intento de ingresar un usuario con caracteres no permitidos.
+2025-02-19 11:08:01 | intento de ingresar una contrasena con caracteres no permitidos.
+2025-02-19 11:08:15 | admin inicio sesion.
+2025-02-19 11:11:22 | admin inicio sesion.
+2025-02-19 11:11:54 | el usuario admin ha realizado un nuevo registro.
+2025-02-19 11:13:10 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 02:18:03 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 02:18:28 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 02:19:21 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 02:19:27 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 02:19:39 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 02:24:36 | uso de pagina sin iniciar sesion.
+2025-02-20 02:24:38 | uso de pagina sin iniciar sesion.
+2025-02-20 02:25:11 | uso de pagina sin iniciar sesion.
+2025-02-20 02:25:11 | el usuario  ha realizado un nuevo registro.
+2025-02-20 02:26:08 | uso de pagina sin iniciar sesion.
+2025-02-20 02:26:08 | el usuario  ha realizado un nuevo registro.
+2025-02-20 02:26:42 | uso de pagina sin iniciar sesion.
+2025-02-20 02:26:42 | el usuario  ha realizado un nuevo registro.
+2025-02-20 02:27:43 | uso de pagina sin iniciar sesion.
+2025-02-20 02:27:43 | el usuario  ha realizado un nuevo registro.
+2025-02-20 02:27:51 | admin inicio sesion.
+2025-02-20 02:28:59 | el usuario admin ha eliminado el registro 84.
+2025-02-20 02:29:02 | el usuario admin ha eliminado el registro 87.
+2025-02-20 02:29:10 | el usuario admin ha eliminado el registro 36.
+2025-02-20 02:29:17 | el usuario admin ha eliminado el registro 91.
+2025-02-20 02:29:22 | el usuario admin ha eliminado el registro 89.
+2025-02-20 02:29:23 | el usuario admin ha eliminado el registro 90.
+2025-02-20 02:29:24 | el usuario admin ha eliminado el registro 92.
+2025-02-20 02:29:25 | el usuario admin ha eliminado el registro 93.
+2025-02-20 02:29:26 | el usuario admin ha eliminado el registro 94.
+2025-02-20 02:29:27 | el usuario admin ha intentado eliminado el registro 94.
+2025-02-20 02:29:31 | el usuario admin ha eliminado el registro 95.
+2025-02-20 02:29:32 | el usuario admin ha eliminado el registro 96.
+2025-02-20 02:29:33 | el usuario admin ha eliminado el registro 97.
+2025-02-20 02:29:38 | el usuario admin ha eliminado el registro 98.
+2025-02-20 02:29:39 | el usuario admin ha eliminado el registro 99.
+2025-02-20 02:30:00 | el usuario admin ha intentado eliminado el registro 99.
+2025-02-20 02:30:11 | el usuario admin ha intentado eliminado el registro 99.
+2025-02-20 02:30:17 | uso de pagina sin iniciar sesion.
+2025-02-20 02:30:24 | uso de pagina sin iniciar sesion.
+2025-02-20 02:55:54 | admin inicio sesion.
+2025-02-20 04:03:35 | uso de pagina sin iniciar sesion.
+2025-02-20 04:03:42 | uso de pagina sin iniciar sesion.
+2025-02-20 04:04:14 | uso de pagina sin iniciar sesion.
+2025-02-20 04:04:42 | uso de pagina sin iniciar sesion.
+2025-02-20 04:04:52 | admin intento iniciar sesion.
+2025-02-20 04:04:59 | admin inicio sesion.
+2025-02-20 04:05:05 | uso de pagina sin iniciar sesion.
+2025-02-20 04:05:34 | uso de pagina sin iniciar sesion.
+2025-02-20 04:05:46 | uso de pagina sin iniciar sesion.
+2025-02-20 04:06:14 | uso de pagina sin iniciar sesion.
+2025-02-20 04:07:16 | admin inicio sesion.
+2025-02-20 04:07:48 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 04:08:03 | el usuario admin intento actualizar el registro 100.
+2025-02-20 04:08:16 | el usuario admin ha actualizado el registro 100 correctamente.
+2025-02-20 04:08:29 | el usuario admin ha eliminado el registro 100.
+2025-02-20 04:09:49 | el usuario admin ha intentado eliminado el registro 100.
+2025-02-20 04:11:05 | admin inicio sesion.
+2025-02-20 04:12:16 | admin inicio sesion.
+2025-02-20 04:12:18 | el usuario admin ha cerrado sesion.
+2025-02-20 04:12:52 | uso de pagina sin iniciar sesion.
+2025-02-20 04:13:07 | admin inicio sesion.
+2025-02-20 04:13:15 | el usuario admin ha cerrado sesion.
+2025-02-20 04:15:10 | admin inicio sesion.
+2025-02-20 04:15:20 | el usuario admin ha cerrado sesion.
+2025-02-20 04:15:20 | uso de pagina sin iniciar sesion.
+2025-02-20 04:15:55 | uso de pagina sin iniciar sesion.
+2025-02-20 04:16:09 | admin inicio sesion.
+2025-02-20 04:16:21 | el usuario admin ha cerrado sesion.
+2025-02-20 04:16:21 | el usuario  ha cerrado sesion.
+2025-02-20 04:21:21 | uso de pagina sin iniciar sesion.
+2025-02-20 04:21:26 | uso de pagina sin iniciar sesion.
+2025-02-20 04:24:52 | uso de pagina sin iniciar sesion.
+2025-02-20 04:24:53 | el usuario  ha buscado un registro.
+2025-02-20 04:24:55 | uso de pagina sin iniciar sesion.
+2025-02-20 04:24:55 | el usuario  ha buscado un registro.
+2025-02-20 04:24:56 | uso de pagina sin iniciar sesion.
+2025-02-20 04:24:56 | el usuario  ha realizado un nuevo registro.
+2025-02-20 04:25:29 | uso de pagina sin iniciar sesion.
+2025-02-20 04:25:38 | admin inicio sesion.
+2025-02-20 04:25:50 | el usuario admin ha cerrado sesion.
+2025-02-20 04:31:59 | admin inicio sesion.
+2025-02-20 04:32:06 | el usuario admin ha cerrado sesion.

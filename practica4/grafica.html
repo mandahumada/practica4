@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grafica de niveles de logs</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<canvas id="myChart" style="width:100%;max-width:900px"></canvas>
+
+<script>
+let chart;
+
+function cargarDatosYActualizar() {
+  fetch('log.txt', { cache: "no-store" })
+
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('no se pudo cargar log.txt');
+            }
+            return response.text();
+        })
+        .then(text => {
+            console.log("datos cargados:", text);
+            const lines = text.split('\n');
+            const accionesContadas = {
+                "login": 0,
+                "logout": 0,
+                "registro": 0,
+                "eliminado": 0,
+                "actualizado": 0,
+                "intento": 0
+            };
+
+            lines.forEach(line => {
+                if (line.includes("inicio sesion")) accionesContadas["login"]++;
+                else if (line.includes("ha cerrado sesion")) accionesContadas["logout"]++;
+                else if (line.includes("ha realizado un nuevo registro")) accionesContadas["registro"]++;
+                else if (line.includes("ha eliminado")) accionesContadas["eliminado"]++;
+                else if (line.includes("ha actualizado el registro")) accionesContadas["actualizado"]++;
+                else if (line.includes("intento") || line.includes("Intento de ingresar una contraseña")) accionesContadas["intento"]++;
+            });
+
+            console.log("Conteo de acciones:", accionesContadas);
+
+            const labels = Object.keys(accionesContadas);
+            const valores = Object.values(accionesContadas);
+
+            if (!chart) {
+                const ctx = document.getElementById("myChart").getContext("2d");
+                chart = new Chart(ctx, {
+                    type: "bar",
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: '',
+                            backgroundColor: ["blue", "green", "orange", "red", "purple", "gray"],
+                            data: valores
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: { beginAtZero: true }
+                        }
+                    }
+                });
+            } else {
+                chart.data.labels = labels;
+                chart.data.datasets[0].data = valores;
+                chart.update();
+            }
+        })
+        .catch(error => console.error('error al cargar datos:', error));
+}
+
+cargarDatosYActualizar();
+setInterval(cargarDatosYActualizar, 1000);
+
+</script>
+
+</body>
+</html>

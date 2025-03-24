@@ -1,0 +1,41 @@
+2025-02-20 04:34:20 | admin inicio sesion.
+2025-02-20 04:34:45 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 04:34:48 | el usuario admin ha eliminado el registro 88.
+2025-02-20 04:34:49 | el usuario admin ha eliminado el registro 101.
+2025-02-20 04:34:59 | el usuario admin intento actualizar el registro 102.
+2025-02-20 04:35:22 | el usuario admin ha cerrado sesion.
+2025-02-20 04:36:10 | admin inicio sesion.
+2025-02-20 04:36:13 | el usuario admin ha cerrado sesion.
+2025-02-20 04:36:17 | intento de ingresar una contrasena con caracteres no permitidos.
+2025-02-20 04:36:34 | sssssssssss intento iniciar sesion.
+2025-02-20 04:37:03 | admin inicio sesion.
+2025-02-20 04:37:06 | el usuario admin ha cerrado sesion.
+2025-02-20 06:09:13 | intento de ingresar una contrasena con caracteres no permitidos.
+2025-02-20 06:09:39 | qqqqqqqq intento iniciar sesion.
+2025-02-20 06:10:10 | admin inicio sesion.
+2025-02-20 06:10:45 | el usuario admin ha realizado un nuevo registro.
+2025-02-20 06:11:02 | el usuario admin ha eliminado el registro 103.
+2025-02-20 06:11:21 | el usuario admin intento actualizar el registro 102.
+2025-02-20 06:11:41 | el usuario admin ha actualizado el registro 102 correctamente.
+2025-02-21 03:46:49 | intento de ingresar una contrasena con caracteres no permitidos.
+2025-02-21 03:52:30 | admin intento iniciar sesion.
+2025-02-21 03:54:25 | admin inicio sesion.
+2025-02-21 03:59:49 | el usuario admin ha realizado un nuevo registro.
+2025-02-21 04:03:18 | el usuario admin intento actualizar el registro 104.
+2025-02-21 04:03:27 | el usuario admin ha actualizado el registro 104 correctamente.
+2025-02-21 04:05:14 | el usuario admin ha eliminado el registro 104.
+2025-02-21 04:07:17 | el usuario admin ha buscado un registro.
+2025-03-03 05:41:22 | el usuario admin ha realizado un nuevo registro.
+2025-03-03 20:38:42 | el usuario admin ha realizado un nuevo registro.
+2025-03-03 20:55:43 | el usuario admin ha realizado un nuevo registro.
+2025-03-03 20:55:48 | el usuario admin ha eliminado el registro 107.
+2025-03-03 22:13:59 | el usuario admin ha realizado un nuevo registro.
+2025-03-04 04:09:04 | el usuario admin ha realizado un nuevo registro.
+2025-03-04 04:10:35 | el usuario admin ha realizado un nuevo registro.
+2025-03-04 04:10:38 | el usuario admin ha eliminado el registro 110.
+2025-03-04 04:10:57 | el usuario admin ha eliminado el registro 109.
+2025-03-04 04:14:05 | el usuario admin ha eliminado el registro 108.
+2025-03-04 04:14:25 | el usuario admin ha eliminado el registro 106.
+2025-03-04 04:18:59 | el usuario admin ha realizado un nuevo registro.
+2025-03-04 04:19:09 | el usuario admin ha realizado un nuevo registro.
+2025-03-04 06:31:35 | el usuario admin ha realizado un nuevo registro.
